@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: Inter;
+  src: url(./Inter.ttf);
+}
+
+@font-face {
+  font-family: Montserrat;
+  src: url(./Montserrat.ttf);
+}
+
+.headtext{
+  font-family: Montserrat;
+}
+
+.paratext{
+  font-family: Inter;
+}
