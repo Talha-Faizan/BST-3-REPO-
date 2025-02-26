@@ -12,8 +12,8 @@ const Mission = () => {
         </p>
       </div>
       <section className="mobile">
-        <div className="grid grid-cols-6 grid-rows-10 gap-4">
-          <div className="col-span-3 row-span-7">
+        <div className="grid grid-cols-6 gap-4">
+          <div className="col-span-6">
             <div className="bg-linear-to-b from-[#ffffff] to-[#F8EDEE] p-5 rounded-2xl h-full w-full">
               <h1 className="text-4xl font-bold">Mission</h1>
               <br />
@@ -35,7 +35,7 @@ const Mission = () => {
               </p>
             </div>
           </div>
-          <div className="col-span-3 row-span-7 col-start-4">
+          <div className="col-span-6">
             <div className="bg-linear-to-b from-[#ffffff] to-[#F8EDEE] p-5 rounded-2xl h-full w-full">
               <h1 className="text-4xl font-bold">Vision</h1>
               <br />
@@ -57,21 +57,21 @@ const Mission = () => {
               </p>
             </div>
           </div>
-          <div className="col-span-2 row-span-3 row-start-8">
+          <div className="col-span-2 row-span-3">
             <img
               className="h-full w-full object-cover rounded-2xl"
               src="https://plus.unsplash.com/premium_photo-1739955024115-e2d219766d49?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
               alt=""
             />
           </div>
-          <div className="col-span-2 row-span-3 col-start-3 row-start-8">
+          <div className="col-span-2 row-span-3">
             <img
               className="h-full w-full object-cover rounded-2xl"
               src="https://plus.unsplash.com/premium_photo-1739955024115-e2d219766d49?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
               alt=""
             />
           </div>
-          <div className="col-span-2 row-span-3 col-start-5 row-start-8">
+          <div className="col-span-2 row-span-3">
             <img
               className="h-full w-full object-cover rounded-2xl"
               src="https://plus.unsplash.com/premium_photo-1739955024115-e2d219766d49?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"

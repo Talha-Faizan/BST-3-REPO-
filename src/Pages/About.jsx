@@ -1,6 +1,6 @@
 import React from "react";
-import Mission from "../Components/Mission/Mission";
-import OurStory from "../Components/OurStory/OurStory";
+import Mission from "../Components/About/Mission/Mission";
+import OurStory from "../Components/About/OurStory/OurStory";
 
 const About = () => {
   return (
